@@ -32,6 +32,13 @@ common tools and resources to assist in developing on that team.
 
 ## Back End
 
+### Errors
+
+The following is a reference of http status codes:
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
 ## Algorithm
 
 ## Raspberry Pi
